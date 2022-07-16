@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kesdog
-- 👀 I’m interested in artificial inteligience, data science and productions
+- 👀 I’m interested in artificial inteligience, data science, front-end, .NET and productions
 - 🌱 I’m currently learning alogorithms, UI design and graph theory 
 
 I'm living in Canada and would love to find work from home. 
